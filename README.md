@@ -15,3 +15,9 @@ Overview of some of the Kali Linux Tools.
 - Tool can be used as both offensive and defensive as per the pentester.
 - Useful for threat intelligence and digital investigations.
 
+# Legion ![image](https://user-images.githubusercontent.com/33444140/224770726-517fecae-19e6-4a95-bc86-1b6dee83a807.png)
+- Legion tool is a semi automated network penetration testing tool.
+- Automatically detects CVEs (Common Vulnerabilities and Exposures).
+- Realtime autosaving of project results and tasks.
+- Automatic recon and scanning with auto-scheduled scripts.
+- Allow pentesters to quickly exploit attack vectors on hosts.
