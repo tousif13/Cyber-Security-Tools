@@ -1,5 +1,5 @@
-# Kali-Linux-Tools
-Overview of some of the Kali Linux Tools.
+# Cyber-Security-Tools
+Overview of some of the Cyber Security tools in Kali Linux.
 
 # Nmap ![image](https://user-images.githubusercontent.com/33444140/224762090-0ec347c7-f56f-4780-a9b6-9877b380b0ff.png)
 - Nmap known as Network Mapper is a tool used for network scanning and security auditing
@@ -21,3 +21,31 @@ Overview of some of the Kali Linux Tools.
 - Realtime autosaving of project results and tasks.
 - Automatic recon and scanning with auto-scheduled scripts.
 - Allow pentesters to quickly exploit attack vectors on hosts.
+
+# Ike-scan ![image](https://user-images.githubusercontent.com/33444140/224778683-0bb5d6ba-9ca5-4855-b8ed-de428d145910.png)
+- IKE(Internet Key Exchange) Scan is used to discover and fingerprints IKE hosts.
+- Used by IPsec and vast majority of IPsec VPNs use IKE for key exchange.
+- Uses retransmission backoff pattern.
+- IKE scan sends request and displays the responded hosts as a part of host discovery.
+- It does Fingerprinting which determines implementation used by IKE hosts.
+
+# Nikto ![image](https://user-images.githubusercontent.com/33444140/224781722-8ccb27ec-ff6b-4687-8f3a-b0adbcd16b1f.png)
+- Nikto is an open-source software used to scan web-server vulnerabilities.
+- It performs comprehensive tests against web servers for multiple security threats.
+- Supports full HTTP Proxy and finds sub-domain.
+- Checks for version related problems and outdated web servers.
+- Finds common vulnerabilities and reports unusual headers.
+
+# Unix-privesc-check ![image](https://user-images.githubusercontent.com/33444140/224784140-71e34430-91e0-4035-9c7d-c5bf9b04c8c7.png)
+- Unix-privesc-check is a vulnerability analysis tool that runs on Unix systems.
+- It finds misconfigurations that escalate privileges by unprivileged users. 
+- Used for Security patching and IP stack configuration.
+- It can even be run as a cron job to check the misconfigurations.
+- Checks weak file permissions and configuration of local applications.
+
+# Sqlmap ![image](https://user-images.githubusercontent.com/33444140/224786579-36eed743-9892-40a0-9924-8c48230c1b32.png)
+- sqlmap is an integrated platform for performing security testing of web applications.
+- Finds and exploits security vulnerabilities.
+- Initial mapping and analysis of attack surface.
+- Combines advanced manual techniques with state-of-the-art automation.
+- Contains intercepting proxy that lets users see and modify requests and responses.
