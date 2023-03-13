@@ -8,3 +8,10 @@ Overview of some of the Kali Linux Tools.
 - Determine what type of OS , packet filters are in use.
 - It provides information on port type , its state , services running and its version.
 
+# Spiderfoot ![image](https://user-images.githubusercontent.com/33444140/224767455-ba39ecf8-cf5e-402a-8b8b-ae4b23e8d977.png)
+- Spiderfoot is an open source intelligence (OSINT) automation tool for intelligence gathering (footprinting).
+- Used to gather info of given target such as IP address , hostname , domain name.
+- To identify what information is openly exposed and any malicious IPs.
+- Tool can be used as both offensive and defensive as per the pentester.
+- Useful for threat intelligence and digital investigations.
+
