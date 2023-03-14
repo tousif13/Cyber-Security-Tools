@@ -43,9 +43,29 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - It can even be run as a cron job to check the misconfigurations.
 - Checks weak file permissions and configuration of local applications.
 
-# Sqlmap ![image](https://user-images.githubusercontent.com/33444140/224786579-36eed743-9892-40a0-9924-8c48230c1b32.png)
-- sqlmap is an integrated platform for performing security testing of web applications.
+# Burpsuite ![image](https://user-images.githubusercontent.com/33444140/225063866-655b22ab-b3ed-4d4f-bf04-8fbac4d01ab9.png)
+- Burpsuite is an integrated platform for performing security testing of web applications.
 - Finds and exploits security vulnerabilities.
 - Initial mapping and analysis of attack surface.
 - Combines advanced manual techniques with state-of-the-art automation.
 - Contains intercepting proxy that lets users see and modify requests and responses.
+
+# Sqlmap ![image](https://user-images.githubusercontent.com/33444140/225064309-4294e62f-23b8-4bcd-8632-0123a627474a.png)
+- Sqlmap detects and exploits SQL injection vulnerabilities in web applications.
+- DBMS fingerprinting and retrieving DBMS session user and database.
+- Enumerate users, password hashes, privileges, roles, tables and columns.
+- Supports dumping database tables and searches for specific database names and columns.
+- Supports executing arbitrary commands and retrieving their standard output.
+
+# Wpscan ![image](https://user-images.githubusercontent.com/33444140/225068242-277c4cc9-8582-48c6-941a-cfa8ec0bf843.png)
+- Wpscan scans a target WordPress and enumerates any plugins.
+- Finds what plugins are installed and any associated vulnerabilities.
+- Finds database dumps that may be publicly accessible.
+- Finds publicly accessible and exposed files and error logs.
+
+# John the Ripper ![image](https://user-images.githubusercontent.com/33444140/225069872-88a50471-1246-4d12-af4e-30ff53a76512.png)
+- John the Ripper is a password security auditing and password recovery tool.
+- Supports hundreds of hash and cipher types.
+- Reveals weak passwords and performs brute-force attacks.
+- Uses sessions to remember previous results and detect hash types automatically.
+- Particularly efficient when combined with open-source wordlists.
