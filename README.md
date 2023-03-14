@@ -92,3 +92,20 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - WEP and WPA PSK cracking.
 
 # Kismet ![image](https://user-images.githubusercontent.com/33444140/225081421-744fe419-c50d-4b45-aeef-3a0c5283b405.png)
+- Kismet is a wireless network and device detector, sniffer, and wardriving tool.
+- It is also a WIDS(Wireless Intrusion Detection) framework.
+- Works with WiFi interfaces, Bluetooth interfaces, and some SDR(Software Defined Radio) hardware.
+- A bigger range of configurations and drivers is available.
+
+# Clang ![image](https://user-images.githubusercontent.com/33444140/225094727-edb83943-9e99-4509-ab67-5953b1f4cd82.png)
+- Clang tool is a front end compiler to compile C and C++ langs into machine code.
+- Used for parsing source code.
+- Optimizes the Abstract Syntax Tree(AST).
+- Fast syntax checking, automatic formatting, refactoring, etc.
+
+# NASM shell ![image](https://user-images.githubusercontent.com/33444140/225095776-dd6f86e8-5b93-4c56-8f82-718f12c51429.png)
+- NASM known as Netwide Assembler will output flat-form binary files.
+- Outputs object files, COFF and ELF Unix object files, Win32 object files.
+- Includes NDISASM, a prototype x86 binary-file disassembler.
+- Assembles a flat binary without needing the complication of a linker.
+
