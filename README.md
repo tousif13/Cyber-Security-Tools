@@ -69,3 +69,26 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - Reveals weak passwords and performs brute-force attacks.
 - Uses sessions to remember previous results and detect hash types automatically.
 - Particularly efficient when combined with open-source wordlists.
+
+# Ncrack ![image](https://user-images.githubusercontent.com/33444140/225075617-fe61ceeb-4d2b-4e9b-90ba-88f91f397d6d.png)
+- ncrack is a network authentication cracking tool.
+- Secure the networks by proactively testing all the hosts and networking devices.
+- Granting the user full control of network operations.
+- Supports many protocols such as SSH, RDP, FTP, Telnet, http(s), etc.
+- Allows for rapid and reliable large-scale auditing of multiple hosts.
+
+# Hashcat ![image](https://user-images.githubusercontent.com/33444140/225076026-77cb5857-2b6a-4477-a4ce-9b1a322c05a1.png)
+- Hashcat is a password cracker and recovery utility.
+- Supports various hashing algorithms such as MD5, SHA1, NTLM etc.
+- Hashcat offers various attack modes such as Dictionary, Mask, Table-Lookup attacks.
+- Distributed cracking networks can be supported using overlays.
+- Supports both hex-charset and hex-salt files.
+
+# Aircrack-ng ![image](https://user-images.githubusercontent.com/33444140/225078588-0ccf0f82-ec1e-4707-82d5-b10d81760f1e.png)
+- Aircrack-ng is a complete suite of tools to assess WiFi network security.
+- Monitors packet capture and export of data to text files.
+- Checks WiFi cards and driver capabilities.
+- Replay attacks, fake access points, deauthentication via packet injection.
+- WEP and WPA PSK cracking.
+
+# Kismet ![image](https://user-images.githubusercontent.com/33444140/225081421-744fe419-c50d-4b45-aeef-3a0c5283b405.png)
