@@ -110,3 +110,17 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - Assembles a flat binary without needing the complication of a linker.
 
 # Metasploit Framework ![image](https://user-images.githubusercontent.com/33444140/225097771-961338fd-0721-4584-afeb-9b0b0a088b39.png)
+- Metasploit Framework is an open-source penetrating framework to create security tools and exploits.
+- Supports vulnerability research, exploit development and creation of custom security tools.
+- Helps users to proactively mend weaknesses before exploitation by hackers.
+- Set payload command allows easy, quick access to switch payloads.
+- Metasploit able to exit the target system cleanly without being detected.
+
+# Social Engineering Toolkit ![image](https://user-images.githubusercontent.com/33444140/225208808-d1ed4e7f-b6f5-459f-8192-593246970b68.png)
+- Social Engineer Toolkit(SET) is a tool aimed at penetration testing around social engineering.
+- SET has a no of custom attack vectors to make a believable attack.
+- Supports integration with third-party modules.
+- Allows multiple tweaks from the configuration menu.
+- SET offers multiple attack options such as Website Attacks, QRCode Attacks, Mass Mailing, Spear-Phishing, etc.
+
+# Dnschef ![image](https://user-images.githubusercontent.com/33444140/225209970-953fffa8-970d-49d7-84d7-edb990caeeb2.png)
