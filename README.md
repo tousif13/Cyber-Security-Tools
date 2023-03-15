@@ -137,3 +137,22 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - netsniff-ng can capture different pcap formats and also supports analysis, replaying and dumping of raw 802.11 frames.
 
 #mitmproxy ![image](https://user-images.githubusercontent.com/33444140/225213344-81c94a34-ad8f-4dc9-a5dd-dc9d4264b930.png)
+- mitmproxy is an interactive man-in-the-middle proxy for HTTP and HTTPS.
+- Intercept and modify HTTP and HTTPS requests and responses.
+- Provides a console interface that allows traffic flows to be inspected and edited.
+- Supports Reverse and transparent proxy modes.
+- SSL/TLS certificates for interception are generated on the fly.
+
+#Sslsplit ![image](https://user-images.githubusercontent.com/33444140/225221344-80e5be17-cd3d-46e7-b84c-c870f41234cf.png)
+- SSLsplit is a tool for MIM attacks against SSL/TLS encrypted network connections.
+- Connections are transparently intercepted through a network address translation engine and redirected to SSLsplit.
+- Dynamically generates a certificate and signs it with private key of CA certificate.
+- Useful for network forensics and penetration testing.
+
+# Mimikatz ![image](https://user-images.githubusercontent.com/33444140/225222552-c7560ea0-b8ed-4da4-a2a7-d857d1fb87a1.png)
+- Mimikatz is an open-source application that allows users to view and save authentication credentials.
+- It uses admin rights on Windows to display passwords of currently logged in users.
+- Attackers commonly use Mimikatz to steal credentials and escalate privileges.
+- Provides functionality for a user to pass a Kerberos ticket to another computer.
+- Passes a unique key obtained from a domain controller to impersonate a user.
+
