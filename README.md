@@ -156,3 +156,10 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - Provides functionality for a user to pass a Kerberos ticket to another computer.
 - Passes a unique key obtained from a domain controller to impersonate a user.
 
+# Powersploit ![image](https://user-images.githubusercontent.com/33444140/225227767-6d62d68e-ebe0-4669-adfa-040833d27436.png)
+- Powersploit is a series of Microsoft PowerShell scripts used in post-exploitation.
+- It is a task automation and configuration management framework.
+- Consists of a command-line shell and associated scripting language built on the .NET framework.
+- Used to gain access to meterpreter on a system.
+
+#
