@@ -162,4 +162,10 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - Consists of a command-line shell and associated scripting language built on the .NET framework.
 - Used to gain access to meterpreter on a system.
 
-#
+# Autopsy ![image](https://user-images.githubusercontent.com/33444140/225229500-d1a815e0-62be-4c0f-ada8-200f0f6c486d.png)
+- Autopsy is a cyber forensic tool for the analysis of Windows and Unix file systems.
+- Analyze various file systems such as NTFS, FAT, FFS, EXT2FS.
+- Performs forensic investigations like file hashing, deleted file recovery, file analysis and case management.
+- Uploaded images makes easier to make an in-depth analysis of the image.
+
+# Hashdeep ![image](https://user-images.githubusercontent.com/33444140/225232278-cca6954c-9e5a-483c-bc45-7459015c5fda.png)
