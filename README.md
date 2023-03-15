@@ -174,3 +174,14 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - Shows estimated time when processing large files.
 - Chunk hashing capability such as piecewise hashing.
 
+# Pipal ![image](https://user-images.githubusercontent.com/33444140/225266690-44c5aa2b-18be-4a12-bf48-239b565ce7a4.png)
+- Pipal is an open source tool built in Ruby for password analysis.
+- It gives you the stats and information to analyze the passwords.
+- Analyzing password dumps that are in internet or during a pentest activity.
+- Analyzes password lists and wordlists.
+
+# Msf payload creator ![image](https://user-images.githubusercontent.com/33444140/225266963-94a92545-8592-4159-9b6f-bd08a7b05b77.png)
+- MSF Payload Creator is a wrapper to generate multiple types of payloads.
+- Generates various Meterpreter payloads using msfvenom which is a part of Metasploit framework.
+- Supports various payloads such as APK, ASP, BASH, Perl, PHP, Windows, Python, etc.
+- User can create mass payloads with the help of "batch" command.
