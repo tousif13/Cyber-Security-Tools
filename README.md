@@ -124,3 +124,16 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - SET offers multiple attack options such as Website Attacks, QRCode Attacks, Mass Mailing, Spear-Phishing, etc.
 
 # Dnschef ![image](https://user-images.githubusercontent.com/33444140/225209970-953fffa8-970d-49d7-84d7-edb990caeeb2.png)
+- DNSChef is a DNS proxy for Penetration Testers and Malware Analysts.
+- DNS proxy is used for application network traffic analysis among other users.
+- DNSChef is capable of forging responses based on inclusive and exclusive domain lists.
+- DNSChef will point queries to your proxy/server host with properly configured services.
+
+#Netsniff-ng ![image](https://user-images.githubusercontent.com/33444140/225211458-9c9ff9ae-d016-4c98-936f-66250826f2f0.png)
+- netsniff-ng is a high performance network sniffer for packet inspection.
+- Used for protocol analysis, reverse engineering or network debugging.
+- The gain of performance is reached by 'zero-copy' mechanisms so that no need to copy packets from kernel space to user space.
+- netsniff-ng also supports early packet filtering in the kernel.
+- netsniff-ng can capture different pcap formats and also supports analysis, replaying and dumping of raw 802.11 frames.
+
+#mitmproxy ![image](https://user-images.githubusercontent.com/33444140/225213344-81c94a34-ad8f-4dc9-a5dd-dc9d4264b930.png)
