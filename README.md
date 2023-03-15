@@ -129,21 +129,21 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - DNSChef is capable of forging responses based on inclusive and exclusive domain lists.
 - DNSChef will point queries to your proxy/server host with properly configured services.
 
-#Netsniff-ng ![image](https://user-images.githubusercontent.com/33444140/225211458-9c9ff9ae-d016-4c98-936f-66250826f2f0.png)
+# Netsniff-ng ![image](https://user-images.githubusercontent.com/33444140/225211458-9c9ff9ae-d016-4c98-936f-66250826f2f0.png)
 - netsniff-ng is a high performance network sniffer for packet inspection.
 - Used for protocol analysis, reverse engineering or network debugging.
 - The gain of performance is reached by 'zero-copy' mechanisms so that no need to copy packets from kernel space to user space.
 - netsniff-ng also supports early packet filtering in the kernel.
 - netsniff-ng can capture different pcap formats and also supports analysis, replaying and dumping of raw 802.11 frames.
 
-#mitmproxy ![image](https://user-images.githubusercontent.com/33444140/225213344-81c94a34-ad8f-4dc9-a5dd-dc9d4264b930.png)
+# mitmproxy ![image](https://user-images.githubusercontent.com/33444140/225213344-81c94a34-ad8f-4dc9-a5dd-dc9d4264b930.png)
 - mitmproxy is an interactive man-in-the-middle proxy for HTTP and HTTPS.
 - Intercept and modify HTTP and HTTPS requests and responses.
 - Provides a console interface that allows traffic flows to be inspected and edited.
 - Supports Reverse and transparent proxy modes.
 - SSL/TLS certificates for interception are generated on the fly.
 
-#Sslsplit ![image](https://user-images.githubusercontent.com/33444140/225221344-80e5be17-cd3d-46e7-b84c-c870f41234cf.png)
+# Sslsplit ![image](https://user-images.githubusercontent.com/33444140/225221344-80e5be17-cd3d-46e7-b84c-c870f41234cf.png)
 - SSLsplit is a tool for MIM attacks against SSL/TLS encrypted network connections.
 - Connections are transparently intercepted through a network address translation engine and redirected to SSLsplit.
 - Dynamically generates a certificate and signs it with private key of CA certificate.
@@ -169,3 +169,8 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - Uploaded images makes easier to make an in-depth analysis of the image.
 
 # Hashdeep ![image](https://user-images.githubusercontent.com/33444140/225232278-cca6954c-9e5a-483c-bc45-7459015c5fda.png)
+- Hashdeep is a set of tools to compute MD5, SHA1, SHA256 and whirlpool hashsums of arbitrary no of files recursively.
+- Compares hashsums with a list of known hashes.
+- Shows estimated time when processing large files.
+- Chunk hashing capability such as piecewise hashing.
+
