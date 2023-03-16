@@ -185,3 +185,17 @@ Overview of some of the Cyber Security tools in Kali Linux.
 - Generates various Meterpreter payloads using msfvenom which is a part of Metasploit framework.
 - Supports various payloads such as APK, ASP, BASH, Perl, PHP, Windows, Python, etc.
 - User can create mass payloads with the help of "batch" command.
+
+# Crackmapexec ![image](https://user-images.githubusercontent.com/33444140/225531330-5b293e91-e1fc-4bdf-a1cd-00cf8d95fc9b.png)
+- CrackMapExec is an open-source penetration testing tool that is used to identify and exploit vulnerabilities in Windows networks.
+- Primarily designed for offensive security testing and can be used to perform various tasks such as reconnaissance, privilege escalation, lateral movement, and password cracking.
+- Used on multiple platforms including Windows, Linux, and macOS.
+- Supports multiple protocols like SMB, LDAP, RDP, and HTTP, as well as credential harvesting, brute-force attacks, and pass-the-hash attacks.
+- CrackMapExec is often used in conjunction with other security testing tools such as Metasploit, Nmap, and Impacket.
+
+# Whatweb ![image](https://user-images.githubusercontent.com/33444140/225531897-f15a49b1-30cd-4263-87cf-23853c4da42e.png)
+- WhatWeb is a free, open-source reconnaissance tool that is used to identify web technologies used by a target website.
+- Written in Ruby and can be run on multiple operating systems, including Windows, Linux, and macOS.
+- WhatWeb utilizes various techniques, such as header analysis and HTML body analysis, to identify web technologies used by a target website.
+- Identifies various types of web technologies, including content management systems (CMS), web servers, and programming languages.
+- Supports various options and parameters, such as custom headers and cookies
